@@ -58,3 +58,10 @@ export const StyledLI = styled.li`
   flex-direction: row;
   justify-content: space-between;
 `;
+
+export const IconHolder = styled.div`
+  margin-bottom: -5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+`;
