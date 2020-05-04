@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 export const APPContainer = styled.div`
   background-color: #222831;
-  min-height: 500px;
-  width: 400px;
+  height: 80vh;
+  width: 94vw;
   margin: 40px auto;
   border-radius: 10px;
 `;
@@ -16,10 +16,10 @@ export const StyledForm = styled.form`
   input {
     background-color: #f2a365;
     border: 0;
-    width: 340px;
+    width: 90%;
     height: 50px;
     padding: 0 20px;
-    margin: 10px;
+    margin: 10px auto;
     font-size: 18px;
     border-radius: 10px;
     color: #ececec;
